@@ -55,16 +55,16 @@ This transforms raw hospital data into **actionable insights** for healthcare pl
 ## 📷 Dashboard Screenshots  
 
 ### Main Dashboard (KPIs & Overview)  
-![Dashboard Overview](images/main_dashboard.png)  
+![Dashboard Overview](https://github.com/anjalivarun13/Hospital-Emergency-Room-Analysis/blob/main/2.Hospital_Dashboard.png)  
 
 ### Daily Patient Count  
-![Daily Patients](images/daily_patients.png)  
+![Daily Patients](https://github.com/anjalivarun13/Hospital-Emergency-Room-Analysis/blob/main/3.No.%20of%20Patient%20on%20Daily%20Basis%20-%20page_1.png)  
 
 ### Wait Time & Satisfaction Trends  
-![Wait Time Trends](images/wait_time.png)  
+![Wait Time Trends](https://github.com/anjalivarun13/Hospital-Emergency-Room-Analysis/blob/main/4.Average%20Patient%20Waiting%20Time%20based%20on%20Daily%20-%20page_2.png)  
 
 ### Demographics & Referrals  
-![Demographics](images/demographics.png)  
+![Demographics](https://github.com/anjalivarun13/Hospital-Emergency-Room-Analysis/blob/main/5.Patient%20Satisfaction%20Score%20based%20on%20Daily%20-page_3.png)  
 
 ---
 
